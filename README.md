@@ -32,6 +32,6 @@ Contribuciones de los Estudiantes:
 
 Puntaje asignado: 3 pts.
 
-- Pablo Daza: El estudiante se encarga de crear el README.md y detallar los posibles fallos del programa. Ayuda con el diseño y orden del programa. Ajusta los nombres de las variables para una mejor comprensión. Además crea el programa junto al otro estudiante.
+- Pablo Daza: El estudiante se encarga de crear el README.md y detallar los posibles fallos del programa. Ayuda con el diseño y orden del programa. Ajusta los nombres de las variables para una mejor comprensión. Además crea el programa junto al otro estudiante. Importa el archivo a Github.
 
 Puntaje asignado: 3 pts.
